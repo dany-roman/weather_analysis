@@ -350,4 +350,4 @@ MigrationBackup/
 .ionide/
 
 # python .py files
-.py
+*.py
